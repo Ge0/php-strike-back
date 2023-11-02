@@ -1,6 +1,6 @@
 # PHP STRIPE BACK.
 
-I am back into PHP and so much things have changed.
+I am back into PHP and so much things have changed. Now it's all about symfony and composer.
 
 ## Compile an additional extension
 
