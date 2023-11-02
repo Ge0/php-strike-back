@@ -1,4 +1,4 @@
-# PHP STRIPE BACK.
+# PHP STRIKE BACK.
 
 I am back into PHP and so much things have changed. Now it's all about symfony and composer.
 
