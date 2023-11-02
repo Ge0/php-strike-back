@@ -9,7 +9,7 @@ Check out https://medium.com/@keithchasen/how-to-install-latest-php-with-postgre
 In a nutshell, according to your PHP version:
 
 ```bash
-$ export PHP_VERSION=8.2.11
-$ cd /tmp
-$ wget http://php.net/distributions/php-$PHP_VERSION.tar.gz
+export PHP_VERSION=8.2.11
+cd /tmp
+wget http://php.net/distributions/php-$PHP_VERSION.tar.gz
 ```
